@@ -21,7 +21,9 @@
       "Bash(npm run build:*)",
       "Bash(npm ci:*)",
       "Read(//mnt/c/Users/jarra/Videos/Work/Business/**)",
-      "Bash(git config:*)"
+      "Bash(git config:*)",
+      "Bash(git pull:*)",
+      "Bash(git checkout:*)"
     ],
     "deny": []
   }
