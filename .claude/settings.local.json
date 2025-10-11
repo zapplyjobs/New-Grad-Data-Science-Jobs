@@ -23,7 +23,10 @@
       "Read(//mnt/c/Users/jarra/Videos/Work/Business/**)",
       "Bash(git config:*)",
       "Bash(git pull:*)",
-      "Bash(git checkout:*)"
+      "Bash(git checkout:*)",
+      "Bash(git push:*)",
+      "Bash(cat:*)",
+      "Bash(awk:*)"
     ],
     "deny": []
   }
